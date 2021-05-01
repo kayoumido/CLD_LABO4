@@ -11,13 +11,13 @@
   <properties>
     <!-- uncomment if you wish to set your project here project- gcloud is used otherwise -->
     <!-- <app.deploy.project>your-app-id</app.deploy.project> -->
-    <appengine.sdk.version>1.9.79</appengine.sdk.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.showDeprecation>true</maven.compiler.showDeprecation>
     <archiveClasses>true</archiveClasses>
+    <appengine.sdk.version>1.9.79</appengine.sdk.version>
   </properties>
 
   <prerequisites>
